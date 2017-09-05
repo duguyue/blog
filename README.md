@@ -1,5 +1,8 @@
 ## 文章列表
 
+### 2017-09
+* [Vue集成Markdown插件](https://github.com/duguyue/blog/issues/6)
+
 ### 2017-08
 * [MyBatis使用技巧](https://github.com/duguyue/blog/issues/3)
 * [Vue结合Element UI实现导航的router属性 expected boolean,got string](https://github.com/duguyue/blog/issues/4)  
